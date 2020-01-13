@@ -2,7 +2,7 @@ require_relative './test'
 AVERAGE_HEIGHT_IN_INCHES = 67
 
 name = "Ian Candy"
-age = 34
+age = 37
 favorite_food = "Pizza"
 height_in_inches = 76
 
